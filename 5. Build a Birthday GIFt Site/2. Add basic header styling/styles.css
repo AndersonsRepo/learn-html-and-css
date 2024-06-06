@@ -8,3 +8,18 @@ Don't know how to make an image round? Google it!
 Also, consider how you should select the image 
 (class vs id vs element selector).
 */
+
+body {
+    text-align: center;
+    font-family: "Happy Monkey";
+}
+
+#pic {
+    border-radius: 50%;
+    max-width: 35%;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}

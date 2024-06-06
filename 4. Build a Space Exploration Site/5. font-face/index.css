@@ -1,8 +1,11 @@
 @font-face {
     src: url("Corleone.ttf");
     font-family: Corleone;
+
+    src: url("Vandal Wupz.ttf");
+    font-family: Vandal;
 }
 
 h1 {
-    
+    font-family: Vandal;
 }

@@ -4,8 +4,15 @@ body {
 
 .avatar {
     width: 150px;
+    
 }
 
+.card {
+    border: 1px dotted blue;
+    background: purple;
+    padding: 20px;
+    display: flex;
+}
 /*
 Challenge:
 1. Give the card div a class (name it "card")

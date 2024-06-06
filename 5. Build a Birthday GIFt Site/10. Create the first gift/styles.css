@@ -47,3 +47,16 @@ Challenge:
 PS: the image should be 400px wide.
 */
 
+.large-txt {
+    
+}
+
+.med-text {
+
+}
+
+.gift {
+    width: 400px;
+    border: solid white 6px;
+    border-radius: 2%;
+}
